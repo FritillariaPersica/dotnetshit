@@ -112,7 +112,7 @@ class Exercises
         counter = number;
         }
         Console.WriteLine(sum);
-        Console.WriteLine($"AVG : {avg/sum} \t Maximum number inputed : {max}");
+        Console.WriteLine($"AVG : {avg/sum} \t Maximum number input : {max}");
     }
     public static void qn16(){ // This one was retarded , we use casting here.
 
