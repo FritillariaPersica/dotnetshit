@@ -1,1 +1,1 @@
-# Shitshow
+# Some random C# exercises
