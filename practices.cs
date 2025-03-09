@@ -1,6 +1,6 @@
 using System;
 
-class Exercises
+class Practices
 {
     public static void Main(){
         // Run a method here for the app to be compile-able.
